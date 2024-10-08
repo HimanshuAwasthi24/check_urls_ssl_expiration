@@ -13,6 +13,6 @@ This project checks the SSL expiration dates of the specified URLs.
  ```
 3. Add the urls in url.txt
 4. Run the script
-   ```bash
-   ./test.sh or bash test.sh
-   ``` 
+ ```bash
+ ./test.sh or bash test.sh
+ ``` 
